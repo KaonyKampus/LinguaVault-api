@@ -1,4 +1,4 @@
-package com.example.linguavaultapi;
+package com.kaonykk.linguavaultapi.config;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

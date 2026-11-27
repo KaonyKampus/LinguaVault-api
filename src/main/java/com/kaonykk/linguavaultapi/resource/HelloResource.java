@@ -1,4 +1,4 @@
-package com.example.linguavaultapi;
+package com.kaonykk.linguavaultapi.resource;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
